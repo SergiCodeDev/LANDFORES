@@ -2,7 +2,7 @@
 
 ### Esta web fue creada en el curso de Confección y Publicación de Páginas WEB (LABORA)
 
-## Portada con efecto parallax y menú transparente (al principio)
+## Portada con efecto parallax
 
 <img src="https://github.com/SergiCodeDev/LANDFORES/blob/main/README/01LANDFORES.jpg?raw=true" alt="portada">
 
