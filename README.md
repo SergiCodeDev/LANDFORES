@@ -25,7 +25,7 @@
 
 ## Arreglar/mejorar:
 
-- Responsive (se rompe en las tarjetas en venta)
+- Responsive (se rompe en las tarjetas de "en venta")
 
 - Terminar el footer (para que se vea mejor)
 
